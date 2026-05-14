@@ -44,6 +44,8 @@ fi
 if [ -f "requirements.txt" ]; then
     echo "Installing Python dependencies..."
     python3 -m pip install -r requirements.txt
+else 
+    echo No requirements.txt found continuing...
 fi
 
 # Run the main script
