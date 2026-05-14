@@ -1,7 +1,7 @@
 # Kitty-Tools Setup and Automation 
-* Credits to 0u44 for making the tool.
 This repository provides a streamlined automation script for setting up the Kitty-Tools environment. It handles the installation of core dependencies, retrieves the latest toolset from the source repository, and executes the primary application logic. 
- 
+
+- Credits to 0u44 for making this tool. this is just an automation script for macOS 
 ## Overview 
  
 The included Zsh script automates the following processes: 
